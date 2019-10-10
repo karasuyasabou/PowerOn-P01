@@ -8,7 +8,13 @@
   信号线宽15mil，小电流电源线宽25mil，大电流直接铺铜并且选择Direct Connect
   接口用双排针设计，排针的焊盘之间连线线宽40mil
   需要打孔的直插焊盘大小80mil
-  接口需文字标注，文字高度40mil，字体粗细10mil
+  接口需文字标注
+  文字高度40mil，字体粗细10mil
+  
+ 打印页面设置
+  Scale Mode:Scaled Print 1.00
+  Color Set:Mono //否则打印出来喷墨不足
+  Advance中仅留下Top Layer,右边选项都勾上
   
   
 元器件布局尽量参考对应硬件设计手册
