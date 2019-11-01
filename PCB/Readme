@@ -1,7 +1,7 @@
 山寨板推荐规则设置：
   Clearance:15mil
-  Width:Min 15mil,Max 40mil
-  Ploygon Connect:Relief Connect,Air Gap Width:10mil,Conductor Width:25mil
+  Width:Min 15mil,Max 80mil
+  Ploygon Connect:Advance:SMD PAD 用Relief Connect,Air Gap Width:10mil,Conductor Width:25mil；Through Hole用Direct Connect
   其余保持默认
  
 其他：
